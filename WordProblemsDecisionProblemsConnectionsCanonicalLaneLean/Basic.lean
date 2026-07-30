@@ -1,0 +1,2 @@
+import WordProblemsDecisionProblemsConnectionsCanonicalLaneLean.GateLemmas
+import WordProblemsDecisionProblemsConnectionsCanonicalLaneLean.FinalTheorem
